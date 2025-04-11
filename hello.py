@@ -3,3 +3,6 @@
 
 print("Hi")
 print("bye")
+print("Hi")
+print("Bye")
+
